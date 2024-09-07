@@ -36,11 +36,7 @@ The **Simon Says Game** is a classic memory game where players have to recall an
 - **HTML**: Structure the game interface.
 - **CSS**: Styling the game, giving each block a distinct color and animation for flashes.
 - **JavaScript**: Core game logic, handling user input, and sequence generation.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
+- 
 ## Contributing
 
 Feel free to submit issues or pull requests to improve the game!
