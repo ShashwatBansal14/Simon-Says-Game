@@ -23,7 +23,7 @@ The **Simon Says Game** is a classic memory game where players have to recall an
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/simon-says-game.git
+    git clone https://github.com/ShashwatBansal14/simon-says-game.git
     ```
 2. Navigate to the project directory:
     ```bash
